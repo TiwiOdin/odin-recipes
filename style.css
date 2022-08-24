@@ -1,0 +1,34 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.container {
+    background-color: #60F7BE;
+    width: 90%;
+    margin: 0 auto;
+    padding-bottom: 5px;
+}
+
+h1 {
+    text-align: center;
+    color: #5a51e2;
+    background-color:rgba(0,0,255,0.3);
+    font-size: 42px;
+}
+
+li {
+    font-weight: 850; /* A value between 1 and 1000 */
+    font-size: 18.2px;
+    margin: 10px;
+}
+
+li a {
+    text-decoration: none;
+    color:#5CAEED;
+}
+
+.img-cont {
+    height: auto;
+    width: 300px;
+    margin: 0 auto;
+}
